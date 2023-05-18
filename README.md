@@ -4,5 +4,5 @@
 Portio is built with Bootstrap 4. You can customize it very easily to fit your needs. 👀👀
 
 </br>
-<img src="1.png" align="center" height ="200px"  />
+<img src="1.png" align="center" width ="500px"  />
 
